@@ -1,4 +1,6 @@
-package app.com.pattern;
+package app.com.Array;
+
+//Java Program to find the frequency of each element in the array
 
 import java.util.HashMap;
 import java.util.Map;
@@ -26,7 +28,7 @@ public class FrequencyCounterNumberArray {
 				Count = Count + 1;
 			}
 		}
-		System.out.println("frequency:   " + "   Key:   ");
+		System.out.println("frequency   " + "    Key   ");
 		System.out.println(key + "                " + Count);
 	}
 

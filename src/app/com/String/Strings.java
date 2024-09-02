@@ -1,4 +1,4 @@
-package app.com.pattern;
+package app.com.String;
 import java.util.Scanner;
 
 public class Strings {

@@ -1,4 +1,4 @@
-package app.com.pattern;
+package app.com.Array;
 import java.util.Scanner;
 
 public class Arrays2D {
